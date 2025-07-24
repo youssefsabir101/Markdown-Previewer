@@ -1,4 +1,4 @@
-[![Live Demo](markdown-previewer-ten-dun.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)]([https://your-live-demo-link.com](https://markdown-previewer-ten-dun.vercel.app/))
 # 📝 Markdown Previewer
 
 A beautiful, real-time Markdown previewer built with **React**, **Vite**, and **Tailwind CSS**. Type your Markdown on the left and see the live rendered HTML on the right — with an immersive, animated, and modern UI.
